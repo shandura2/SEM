@@ -1,1 +1,3 @@
-[![Build Status](https://travis-ci.org/shandura2/SEM.svg?branch=master)](https://travis-ci.org/shandura2/SEM)
+quare)](https://github.com/<shandura2>/sem/releases)[![Build Status](https://travis-ci.org/shandura2/SEM.svg?branch=master)](https://travis-ci.org/shandura2/SEM)
+                                                                                                                                           [![LICENSE](https://img.shields.io/github/license/<shandura2>/sem.svg?style=flat-square)](https://github.com/<shandura2>/sem/blob/master/LICENSE)
+                                                                                                                                           [![Releases](https://img.shields.io/github/release/<shandura2>/sem/all.svg?style=flat-s
