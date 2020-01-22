@@ -1,1 +1,1 @@
-test text
+[![Build Status](https://travis-ci.org/shandura2/SEM.svg?branch=master)](https://travis-ci.org/shandura2/SEM)
